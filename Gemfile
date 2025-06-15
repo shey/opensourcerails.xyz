@@ -42,6 +42,7 @@ group :development do
   gem "dotenv-deployment"
   gem "ed25519"
   gem "bcrypt_pbkdf"
+  gem "annotate", "~> 3.2"
 end
 
 gem 'activeadmin'
